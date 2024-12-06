@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Posh-IB
 - 👀 I’m interested in Smart Contract Development
-- 🌱 I’m currently learning Machine Learning & Cryptography
+- 🌱 I’m currently working on some personal coding projects
 - 💞️ I’m looking to collaborate on Solidity
 - 📫 Tweet me Crypthoe12 
 
