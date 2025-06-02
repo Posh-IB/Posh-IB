@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Posh-IB
-- 👀 I’m interested in Smart Contract Development
+- 👀 I’m experienced in Smart Contract Development, Platform Development and DAO Risk Modeling
 - 🌱 I’m currently working on some personal coding projects
-- 💞️ I’m looking to collaborate on Solidity
+- 💞️ I’m looking to collaborate on Web3 and DeFi Projects
 - 📫 Tweet me Crypthoe12 
 
 <!---
